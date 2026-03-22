@@ -8,8 +8,8 @@ from collections import defaultdict
 # ══════════════════════════════════════
 #  TOKEN တွေ ဒီမှာ ထည့်ပါ
 # ══════════════════════════════════════
-TELEGRAM_TOKEN = ""
-GROQ_API_KEY   = ""
+TELEGRAM_TOKEN = "8720371315:AAFNCoggi8V7JfS9n2oTEYsVep6U6PLC72Q"
+GROQ_API_KEY   = "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"
 # ══════════════════════════════════════
 
 TEXT_MODEL    = "llama-3.3-70b-versatile"
